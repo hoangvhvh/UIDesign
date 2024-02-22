@@ -1,4 +1,4 @@
-![design_login_android](https://github.com/hoangvhvh/UIDesign/assets/136428671/73a14703-ff0d-4f22-858a-cef57ebf06e0)## GIAO DIỆN BÀI TH SỐ 1 (UI Design) - ĐỨC HOÀNG CNTT K19  
+## GIAO DIỆN BÀI TH SỐ 1 (UI Design) - ĐỨC HOÀNG CNTT K19  
 
 # activity_login.xml
  ### Phần này hiển thị nội dung của màn hình đăng nhập
